@@ -5,7 +5,6 @@ import com.example.hra.exception.RegionNotFoundException;
 import com.example.hra.repository.RegionRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import javax.transaction.Transactional;
 import java.math.BigDecimal;
 import java.util.List;
 @Service
